@@ -1,0 +1,18 @@
+p{
+    background-color: pink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+p.two{
+    font-size: 24px;
+}
+
+#one{
+    font-size: 36px;
+    color: blue;
+}
+#this{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
